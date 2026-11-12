@@ -1,6 +1,10 @@
 # Intelligent Hybrid Recommendation System
 
-### AI-Powered Profile Matching Using NLP, Semantic Similarity and Adaptive Learning
+## 🚀 Live Demo
+
+[Launch Intelligent Hybrid Recommendation System](https://intelligent-hybrid-recommendation-system-8uh9zqy9pjcy89jvlsthj.streamlit.app/)
+
+AI-Powered Profile Matching Using NLP, Semantic Similarity and Adaptive Learning
 
 ## Project Overview
 
