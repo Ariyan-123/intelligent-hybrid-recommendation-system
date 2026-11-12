@@ -1,0 +1,5 @@
+stage,interactions,accepts,acceptance_rate
+Early,200,64,32.0
+Middle-Early,200,59,29.5
+Middle-Late,200,52,26.0
+Late,200,71,35.5

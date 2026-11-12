@@ -1,0 +1,19 @@
+parameter,value
+project,Intelligent Hybrid Recommendation System
+title,Profile-Based Matching Algorithm
+users,100
+feedback_records,800
+feedback_type,Synthetic and simulated
+embedding_model,all-MiniLM-L6-v2
+embedding_dimensions,384
+initial_text_weight,0.5
+initial_mbti_weight,0.3
+initial_location_weight,0.2
+adaptive_models_trained,100
+top_k_recommendations,5
+matching_features,"NLP, MBTI and Location"
+text_matching_method,Sentence Transformer and Cosine Similarity
+adaptive_learning_method,Logistic Regression
+experimental_adaptive_weights,True
+evaluation_status,Exploratory analysis only
+deployment_interface,Streamlit

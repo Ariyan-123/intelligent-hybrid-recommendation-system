@@ -1,0 +1,38 @@
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Local application feedback
+data/ui_feedback.csv
+ui_feedback.csv
+
+# Temporary and system files
+*.log
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE settings
+.vscode/
+.idea/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Temporary files
+*.tmp
+*.bak
+# Downloaded Sentence Transformer model
+models/sentence_transformer_model/
